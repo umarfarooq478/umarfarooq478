@@ -48,10 +48,11 @@
 
 
 ## Education
-
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+<img align="right" src="https://img.shields.io/badge/Python" />
+  
+- 📖 **Bachelors in Computer Science**\
+📆 2019 - 2023\
+📍 **National University of Computer and Emerging Sciences** - Islamabad
 
 ## Experience
 
