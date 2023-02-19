@@ -55,7 +55,11 @@
 <img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=Python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-3498DB?logo=react&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Android-3498DB?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL-3498DB?logo=sql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+
   
   
 - 📖 **Bachelors in Computer Science**\
