@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/umarfarooq478/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="muhammadumarfarooq478@gmail.com">
+  <a href="mailto: muhammadumarfarooq478@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
