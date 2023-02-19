@@ -91,19 +91,19 @@
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
-**Programming**
+- **Programming**
 
 <img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 
-**Operating Systems**
+- **Operating Systems**
 
 <img align="right" src="https://img.shields.io/badge/English-B2-blue" />
 <img align="right" src="https://img.shields.io/badge/Urdu-mother tongue-green" />
 
-**Languages**
+- **Languages**
 
 </details>
 
