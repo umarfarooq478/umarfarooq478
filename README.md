@@ -78,6 +78,14 @@
 📆 2022 - moment\
 📍 **IKNEX Lab, FAST - NUCES** - Islamabad
   
+  
+<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=Python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-239120?logo=react&logoColor=white" />
+  
+- 👨‍💻 **AI Research Intern**\
+📆 2022
+📍 **CureMD** - Lahore
+  
 
 
 ## Skills
