@@ -52,7 +52,11 @@
 
 
 ## Education
-<img align="right" src="https://img.shields.io/badge/Python" />
+<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=Python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-3498DB?logo=react&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android-3498DB?logo=android&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQL-3498DB?logo=sql&logoColor=white" />
+  
   
 - 📖 **Bachelors in Computer Science**\
 📆 2019 - 2023\
@@ -60,7 +64,7 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=Python&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - moment\
