@@ -57,9 +57,9 @@
   
   
 <img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=Python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React-3498DB?logo=react&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-CC2927?logo=react&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Android-E95420?logo=android&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-239120?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
